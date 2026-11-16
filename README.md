@@ -1,4 +1,4 @@
-# 📊 Media Intelligence Dashboard
+#  MediaPulse – The Cross-Platform Audience Intelligence System
 
 > Tracks how audience interest **flows across Instagram → YouTube → News → OTT** and turns that signal into data-backed content investment decisions.
 
